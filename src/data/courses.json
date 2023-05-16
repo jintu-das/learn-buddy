@@ -1,0 +1,495 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "The Complete Python Bootcamp From Zero to Hero in Python",
+      "author": "Jose Portilla",
+      "type": "python",
+      "description": "Learn Python like a Professional! Start from the basics and go all the way to creating your own applications and games!",
+      "rating": 4.5,
+      "duration": 41,
+      "students": 100000,
+      "image": "https://img-c.udemycdn.com/course/240x135/692188_9da7_30.jpg",
+      "bestseller": false,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Python Basics",
+          "description": "Python is a programming language supports several programming paradigms including Object-Orientated Programming (OOP) and functional programming.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the capital of France?",
+              "options": ["London", "Paris", "Berlin", "Rome"],
+              "answer": "Paris"
+            },
+            {
+              "id": 2,
+              "question": "Which planet is known as the Red Planet?",
+              "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+              "answer": "Mars"
+            },
+            {
+              "id": 3,
+              "question": "What is the chemical symbol for hydrogen?",
+              "options": ["He", "Hg", "O", "H"],
+              "answer": "H"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Python Advanced",
+          "description": "In this section you’ll find Python tutorials that teach you advanced concepts so you can be on your way to become a master of the Python programming language. ",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "questions": [
+            {
+              "id": 6,
+              "question": "Which country is known as the Land of the Rising Sun?",
+              "options": ["China", "Japan", "India", "Thailand"],
+              "answer": "Japan"
+            },
+            {
+              "id": 7,
+              "question": "What is the square root of 144?",
+              "options": ["9", "12", "16", "18"],
+              "answer": "12"
+            },
+            {
+              "id": 8,
+              "question": "Who is the author of the Harry Potter book series?",
+              "options": [
+                "J.R.R. Tolkien",
+                "J.K. Rowling",
+                "C.S. Lewis",
+                "Stephenie Meyer"
+              ],
+              "answer": "J.K. Rowling"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Python Guru",
+          "description": "You will find multiple articles posted by developers about different topics from beginner to expert level. Here, you can learn how to use Python for web development, data science, and machine learning as well.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Who painted the Mona Lisa?",
+              "options": [
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Vincent van Gogh",
+                "Michelangelo"
+              ],
+              "answer": "Leonardo da Vinci"
+            },
+            {
+              "id": 2,
+              "question": "What is the largest planet in our solar system?",
+              "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+              "answer": "Jupiter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Complete Web Developer Course 2.0",
+      "type": "web",
+      "author": "Rob Percival",
+      "description": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+      "rating": 3,
+      "duration": 30,
+      "students": 50000,
+      "image": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
+      "bestseller": true,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Basics of Web",
+          "description": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more!",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+              "options": ["lorem", "ipsum", "dolor", "amet"],
+              "answer": "amet"
+            },
+            {
+              "id": 2,
+              "question": "Excepteur sint occaecat irure",
+              "options": ["Excepteur", "sint", "occaecat", "irure"],
+              "answer": "irure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "angular",
+      "name": "Angular 4 (formerly Angular 2) - The Complete Guide",
+      "author": "Maximilian Schwarzmüller",
+      "description": "Master Angular (Angular 2+, incl. Angular 4) and build awesome, reactive web apps with the successor of Angular.js",
+      "rating": 4.6,
+      "duration": 25,
+      "students": 70000,
+      "image": "https://img-c.udemycdn.com/course/240x135/756150_c033_2.jpg",
+      "bestseller": false,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Angular JS Basics",
+          "description": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more!",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "questions": [
+            {
+              "id": 2,
+              "question": "Which planet is known as the Red Planet?",
+              "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+              "answer": "Mars"
+            },
+            {
+              "id": 3,
+              "question": "What is the chemical symbol for hydrogen?",
+              "options": ["He", "Hg", "O", "H"],
+              "answer": "H"
+            },
+            {
+              "id": 4,
+              "question": "Who painted the Mona Lisa?",
+              "options": [
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Vincent van Gogh",
+                "Michelangelo"
+              ],
+              "answer": "Leonardo da Vinci"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Dependency Injection & Services",
+          "description": "In Angular, dependencies are typically services, but they also can be values, such as strings or functions. An injector for an application (created automatically during bootstrap) instantiates dependencies when needed, using a configured provider of the service or value.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "questions": [
+            {
+              "id": 5,
+              "question": "What is the largest planet in our solar system?",
+              "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+              "answer": "Jupiter"
+            },
+            {
+              "id": 6,
+              "question": "Which country is known as the Land of the Rising Sun?",
+              "options": ["China", "Japan", "India", "Thailand"],
+              "answer": "Japan"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Angular JS Animation",
+          "description": "Angular's animation system is built on CSS functionality, which means you can animate any property that the browser considers animatable. This includes positions, sizes, transforms, colors, borders, and more.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "questions": [
+            {
+              "id": 7,
+              "question": "What is the square root of 144?",
+              "options": ["9", "12", "16", "18"],
+              "answer": "12"
+            },
+            {
+              "id": 8,
+              "question": "Who is the author of the Harry Potter book series?",
+              "options": [
+                "J.R.R. Tolkien",
+                "J.K. Rowling",
+                "C.S. Lewis",
+                "Stephenie Meyer"
+              ],
+              "answer": "J.K. Rowling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "The Complete JavaScript Course 2018: Build Real Projects!",
+      "type": "javascript",
+      "author": "Jonas Schmedtmann",
+      "description": "Master JavaScript with the most complete course! Projects, challenges, quizzes, ES6+, OOP, AJAX, Webpack",
+      "rating": 3.6,
+      "duration": 27,
+      "students": 60000,
+      "image": "https://img-b.udemycdn.com/course/480x270/1501104_967d_13.jpg",
+      "bestseller": true,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Javascript Fundamental - Part One",
+          "description": "JavaScript is a versatile and widely used programming language that is primarily used for web development. In this summary, we will cover the fundamental concepts and features of JavaScript.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the correct way to declare a JavaScript variable?",
+              "options": ["variable = 5", "null", "object", "string"],
+              "answer": "object"
+            },
+            {
+              "id": 2,
+              "question": "Which planet is closest to the Sun?",
+              "options": ["Venus", "Mercury", "Mars", "Saturn"],
+              "answer": "Mercury"
+            },
+            {
+              "id": 3,
+              "question": "What is the chemical formula for water?",
+              "options": ["H2O2", "CO2", "NaCl", "H2O"],
+              "answer": "H2O"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Javascript Fundamental - Part Two",
+          "description": "facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the capital of France?",
+              "options": ["London", "Paris", "Berlin", "Rome"],
+              "answer": "Paris"
+            },
+            {
+              "id": 2,
+              "question": "Which planet is known as the Red Planet?",
+              "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+              "answer": "Mars"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Javascript Fundamental - Part Three",
+          "description": "facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+          "questions": [
+            {
+              "id": 3,
+              "question": "What is the chemical symbol for hydrogen?",
+              "options": ["He", "Hg", "O", "H"],
+              "answer": "H"
+            },
+            {
+              "id": 4,
+              "question": "Who painted the Mona Lisa?",
+              "options": [
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Vincent van Gogh",
+                "Michelangelo"
+              ],
+              "answer": "Leonardo da Vinci"
+            },
+            {
+              "id": 5,
+              "question": "What is the largest planet in our solar system?",
+              "options": ["Mars", "Saturn", "Jupiter", "Neptune"],
+              "answer": "Jupiter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Complete Digital Marketing Course 2018: 12 Courses in 1",
+      "type": "marketing",
+      "author": "Rob Percival",
+      "description": "Master Digital Marketing & Grow Your Business: SEO, Facebook, YouTube, Social Media Marketing, Google Analytics & More!",
+      "rating": 5,
+      "duration": 22,
+      "students": 20000,
+      "image": "https://img-b.udemycdn.com/course/480x270/2792314_1543.jpg",
+      "bestseller": true,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Introduction to Digital Marketing",
+          "description": "Defining digital marketing, how is it different from traditional marketing and why is it relevant now.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which planet is closest to the Sun?",
+              "options": ["Venus", "Mercury", "Mars", "Saturn"],
+              "answer": "Mercury"
+            },
+            {
+              "id": 2,
+              "question": "What is the chemical formula for water?",
+              "options": ["H2O2", "CO2", "NaCl", "H2O"],
+              "answer": "H2O"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Search Engine Optimisation (SEO)",
+          "description": "Techniques used to optimize any article, website, or blog for traffic & revenue generation.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+          "questions": [
+            {
+              "id": 10,
+              "question": "What is the chemical symbol for gold?",
+              "options": ["Ag", "Au", "Fe", "Cu"],
+              "answer": "Au"
+            },
+            {
+              "id": 11,
+              "question": "Who wrote the play 'Romeo and Juliet'?",
+              "options": [
+                "William Shakespeare",
+                "George Bernard Shaw",
+                "Oscar Wilde",
+                "Arthur Miller"
+              ],
+              "answer": "William Shakespeare"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Social Media Marketing",
+          "description": "Using different social media platforms (Facebook/Instagram/Twitter) to connect with the audience & convert them to a call of action (purchase or form filling).",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "questions": [
+            {
+              "id": 7,
+              "question": "What is the square root of 144?",
+              "options": ["9", "12", "16", "18"],
+              "answer": "12"
+            },
+            {
+              "id": 8,
+              "question": "Who is the author of the Harry Potter book series?",
+              "options": [
+                "J.R.R. Tolkien",
+                "J.K. Rowling",
+                "C.S. Lewis",
+                "Stephenie Meyer"
+              ],
+              "answer": "J.K. Rowling"
+            },
+            {
+              "id": 9,
+              "question": "Which animal is known as the 'King of the Jungle'?",
+              "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+              "answer": "Lion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "The Complete Node.js Developer Course (2nd Edition)",
+      "type": "node",
+      "author": "Andrew Mead",
+      "description": "Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more!",
+      "rating": 4.7,
+      "duration": 35,
+      "students": 90000,
+      "image": "https://img-b.udemycdn.com/course/480x270/1672410_9ff1_5.jpg",
+      "bestseller": true,
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Node JS Modules",
+          "description": "What is a Module in Node.js? Consider modules to be the same as JavaScript libraries. · Built-in Modules.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the capital of France?",
+              "options": ["London", "Paris", "Berlin", "Rome"],
+              "answer": "Paris"
+            },
+            {
+              "id": 2,
+              "question": "Which planet is known as the Red Planet?",
+              "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+              "answer": "Mars"
+            },
+            {
+              "id": 3,
+              "question": "What is the chemical symbol for hydrogen?",
+              "options": ["He", "Hg", "O", "H"],
+              "answer": "H"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Creating Web server",
+          "description": "In this chapter we will learn creating web server, hadling GET, POST,PUT and Delete requests and listening tocertain port numbers and handling routing with basic web server.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+          "questions": [
+            {
+              "id": 7,
+              "question": "What is the square root of 144?",
+              "options": ["9", "12", "16", "18"],
+              "answer": "12"
+            },
+            {
+              "id": 8,
+              "question": "Who is the author of the Harry Potter book series?",
+              "options": [
+                "J.R.R. Tolkien",
+                "J.K. Rowling",
+                "C.S. Lewis",
+                "Stephenie Meyer"
+              ],
+              "answer": "J.K. Rowling"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Express.JS",
+          "description": "In this chapter you will learn how to use express framework to create web applications. Express is the most popular framework to build efficient web applications with minimum coding.",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+          "questions": [
+            {
+              "id": 10,
+              "question": "What is the chemical symbol for gold?",
+              "options": ["Ag", "Au", "Fe", "Cu"],
+              "answer": "Au"
+            },
+            {
+              "id": 11,
+              "question": "Who wrote the play 'Romeo and Juliet'?",
+              "options": [
+                "William Shakespeare",
+                "George Bernard Shaw",
+                "Oscar Wilde",
+                "Arthur Miller"
+              ],
+              "answer": "William Shakespeare"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
